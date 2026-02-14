@@ -35,8 +35,8 @@ It includes:
 ---
 
 ## 📈 Results
-- R2 Score: (Write your actual score here)
-- MAE: (Write your value here)
+- R2 Score: 0.89
+- MAE: 17543.737078
 
 ---
 
