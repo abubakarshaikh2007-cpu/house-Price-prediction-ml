@@ -1,11 +1,3 @@
-Perfect 👌 Shaikh Abubakar.
-I will give you a professional README for your Sale Price project, written clean like your churn project.
-
-You can copy–paste this into your GitHub README.md.
-
-
----
-
 🏠 House Price Prediction using Machine Learning
 
 📌 Project Overview
